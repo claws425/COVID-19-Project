@@ -1,0 +1,421 @@
+﻿CASE_STATUS,AgeCat,RaceCat,SEX,Cases,Deaths
+Confirmed,0-9,American Indian/Alaska Native,Female,63,0
+Probable,0-9,American Indian/Alaska Native,Female,19,0
+Confirmed,10-19,American Indian/Alaska Native,Female,158,0
+Probable,10-19,American Indian/Alaska Native,Female,31,0
+Confirmed,20-29,American Indian/Alaska Native,Female,284,0
+Probable,20-29,American Indian/Alaska Native,Female,45,0
+Confirmed,30-39,American Indian/Alaska Native,Female,220,Suppressed
+Probable,30-39,American Indian/Alaska Native,Female,34,0
+Confirmed,40-49,American Indian/Alaska Native,Female,192,0
+Probable,40-49,American Indian/Alaska Native,Female,29,0
+Confirmed,50-59,American Indian/Alaska Native,Female,198,Suppressed
+Probable,50-59,American Indian/Alaska Native,Female,24,0
+Confirmed,60-69,American Indian/Alaska Native,Female,132,Suppressed
+Probable,60-69,American Indian/Alaska Native,Female,19,0
+Confirmed,70-79,American Indian/Alaska Native,Female,82,9
+Probable,70-79,American Indian/Alaska Native,Female,6,0
+Confirmed,80+,American Indian/Alaska Native,Female,27,Suppressed
+Probable,80+,American Indian/Alaska Native,Female,Suppressed,Suppressed
+Confirmed,Unknown,American Indian/Alaska Native,Female,Suppressed,0
+Probable,Unknown,American Indian/Alaska Native,Female,Suppressed,0
+Confirmed,0-9,Asian/Pacific Islander,Female,122,0
+Probable,0-9,Asian/Pacific Islander,Female,13,0
+Confirmed,10-19,Asian/Pacific Islander,Female,382,0
+Probable,10-19,Asian/Pacific Islander,Female,27,0
+Confirmed,20-29,Asian/Pacific Islander,Female,842,0
+Probable,20-29,Asian/Pacific Islander,Female,63,0
+Confirmed,30-39,Asian/Pacific Islander,Female,729,Suppressed
+Probable,30-39,Asian/Pacific Islander,Female,48,0
+Confirmed,40-49,Asian/Pacific Islander,Female,652,0
+Probable,40-49,Asian/Pacific Islander,Female,34,0
+Confirmed,50-59,Asian/Pacific Islander,Female,571,Suppressed
+Probable,50-59,Asian/Pacific Islander,Female,34,0
+Confirmed,60-69,Asian/Pacific Islander,Female,330,7
+Probable,60-69,Asian/Pacific Islander,Female,19,Suppressed
+Confirmed,70-79,Asian/Pacific Islander,Female,154,14
+Probable,70-79,Asian/Pacific Islander,Female,9,0
+Confirmed,80+,Asian/Pacific Islander,Female,110,32
+Probable,80+,Asian/Pacific Islander,Female,Suppressed,0
+Confirmed,Unknown,Asian/Pacific Islander,Female,Suppressed,0
+Probable,Unknown,Asian/Pacific Islander,Female,Suppressed,0
+Confirmed,0-9,Black/African American,Female,696,Suppressed
+Probable,0-9,Black/African American,Female,61,0
+Confirmed,10-19,Black/African American,Female,1854,Suppressed
+Probable,10-19,Black/African American,Female,107,0
+Confirmed,20-29,Black/African American,Female,5297,10
+Probable,20-29,Black/African American,Female,285,0
+Confirmed,30-39,Black/African American,Female,4860,13
+Probable,30-39,Black/African American,Female,255,0
+Confirmed,40-49,Black/African American,Female,4304,63
+Probable,40-49,Black/African American,Female,238,Suppressed
+Confirmed,50-59,Black/African American,Female,4015,136
+Probable,50-59,Black/African American,Female,250,10
+Confirmed,60-69,Black/African American,Female,3491,286
+Probable,60-69,Black/African American,Female,180,13
+Confirmed,70-79,Black/African American,Female,2135,394
+Probable,70-79,Black/African American,Female,80,15
+Confirmed,80+,Black/African American,Female,1528,536
+Probable,80+,Black/African American,Female,58,30
+Confirmed,Unknown,Black/African American,Female,15,0
+Probable,Unknown,Black/African American,Female,16,0
+Confirmed,0-9,Multiple Races,Female,388,0
+Probable,0-9,Multiple Races,Female,60,0
+Confirmed,10-19,Multiple Races,Female,1279,Suppressed
+Probable,10-19,Multiple Races,Female,107,0
+Confirmed,20-29,Multiple Races,Female,2165,0
+Probable,20-29,Multiple Races,Female,141,0
+Confirmed,30-39,Multiple Races,Female,1549,0
+Probable,30-39,Multiple Races,Female,82,0
+Confirmed,40-49,Multiple Races,Female,1659,Suppressed
+Probable,40-49,Multiple Races,Female,97,0
+Confirmed,50-59,Multiple Races,Female,1711,7
+Probable,50-59,Multiple Races,Female,99,0
+Confirmed,60-69,Multiple Races,Female,1274,7
+Probable,60-69,Multiple Races,Female,77,Suppressed
+Confirmed,70-79,Multiple Races,Female,710,24
+Probable,70-79,Multiple Races,Female,32,0
+Confirmed,80+,Multiple Races,Female,487,50
+Probable,80+,Multiple Races,Female,20,Suppressed
+Confirmed,Unknown,Multiple Races,Female,10,0
+Probable,Unknown,Multiple Races,Female,28,0
+Confirmed,0-9,Other,Female,620,0
+Probable,0-9,Other,Female,50,0
+Confirmed,10-19,Other,Female,1714,0
+Probable,10-19,Other,Female,101,0
+Confirmed,20-29,Other,Female,3215,0
+Probable,20-29,Other,Female,153,0
+Confirmed,30-39,Other,Female,2458,Suppressed
+Probable,30-39,Other,Female,112,0
+Confirmed,40-49,Other,Female,2310,Suppressed
+Probable,40-49,Other,Female,113,0
+Confirmed,50-59,Other,Female,1793,12
+Probable,50-59,Other,Female,63,Suppressed
+Confirmed,60-69,Other,Female,1114,27
+Probable,60-69,Other,Female,38,Suppressed
+Confirmed,70-79,Other,Female,597,41
+Probable,70-79,Other,Female,21,0
+Confirmed,80+,Other,Female,437,75
+Probable,80+,Other,Female,9,Suppressed
+Confirmed,Unknown,Other,Female,8,0
+Probable,Unknown,Other,Female,13,0
+Confirmed,0-9,Unknown,Female,1112,0
+Probable,0-9,Unknown,Female,184,0
+Confirmed,10-19,Unknown,Female,4372,0
+Probable,10-19,Unknown,Female,620,0
+Confirmed,20-29,Unknown,Female,10312,Suppressed
+Probable,20-29,Unknown,Female,1292,0
+Confirmed,30-39,Unknown,Female,8269,0
+Probable,30-39,Unknown,Female,896,0
+Confirmed,40-49,Unknown,Female,8504,7
+Probable,40-49,Unknown,Female,985,0
+Confirmed,50-59,Unknown,Female,9058,15
+Probable,50-59,Unknown,Female,995,Suppressed
+Confirmed,60-69,Unknown,Female,5533,42
+Probable,60-69,Unknown,Female,717,Suppressed
+Confirmed,70-79,Unknown,Female,2566,73
+Probable,70-79,Unknown,Female,303,Suppressed
+Confirmed,80+,Unknown,Female,2154,200
+Probable,80+,Unknown,Female,217,22
+Confirmed,Unknown,Unknown,Female,120,0
+Probable,Unknown,Unknown,Female,902,0
+Confirmed,0-9,White,Female,3602,Suppressed
+Probable,0-9,White,Female,623,0
+Confirmed,10-19,White,Female,14643,0
+Probable,10-19,White,Female,1442,Suppressed
+Confirmed,20-29,White,Female,28298,9
+Probable,20-29,White,Female,1959,Suppressed
+Confirmed,30-39,White,Female,20787,15
+Probable,30-39,White,Female,1446,Suppressed
+Confirmed,40-49,White,Female,20585,45
+Probable,40-49,White,Female,1491,Suppressed
+Confirmed,50-59,White,Female,22938,151
+Probable,50-59,White,Female,1573,12
+Confirmed,60-69,White,Female,18516,435
+Probable,60-69,White,Female,1069,23
+Confirmed,70-79,White,Female,12049,891
+Probable,70-79,White,Female,650,50
+Confirmed,80+,White,Female,10957,2421
+Probable,80+,White,Female,883,183
+Confirmed,Unknown,White,Female,92,0
+Probable,Unknown,White,Female,244,0
+Confirmed,0-9,American Indian/Alaska Native,Male,49,0
+Probable,0-9,American Indian/Alaska Native,Male,15,0
+Confirmed,10-19,American Indian/Alaska Native,Male,126,0
+Probable,10-19,American Indian/Alaska Native,Male,31,0
+Confirmed,20-29,American Indian/Alaska Native,Male,215,0
+Probable,20-29,American Indian/Alaska Native,Male,35,0
+Confirmed,30-39,American Indian/Alaska Native,Male,192,0
+Probable,30-39,American Indian/Alaska Native,Male,28,0
+Confirmed,40-49,American Indian/Alaska Native,Male,193,0
+Probable,40-49,American Indian/Alaska Native,Male,26,0
+Confirmed,50-59,American Indian/Alaska Native,Male,173,Suppressed
+Probable,50-59,American Indian/Alaska Native,Male,24,0
+Confirmed,60-69,American Indian/Alaska Native,Male,132,16
+Probable,60-69,American Indian/Alaska Native,Male,15,Suppressed
+Confirmed,70-79,American Indian/Alaska Native,Male,74,13
+Probable,70-79,American Indian/Alaska Native,Male,8,Suppressed
+Confirmed,80+,American Indian/Alaska Native,Male,23,Suppressed
+Probable,80+,American Indian/Alaska Native,Male,Suppressed,Suppressed
+Confirmed,Unknown,American Indian/Alaska Native,Male,0,0
+Probable,Unknown,American Indian/Alaska Native,Male,Suppressed,0
+Confirmed,0-9,Asian/Pacific Islander,Male,158,0
+Probable,0-9,Asian/Pacific Islander,Male,24,0
+Confirmed,10-19,Asian/Pacific Islander,Male,345,0
+Probable,10-19,Asian/Pacific Islander,Male,20,0
+Confirmed,20-29,Asian/Pacific Islander,Male,902,0
+Probable,20-29,Asian/Pacific Islander,Male,56,0
+Confirmed,30-39,Asian/Pacific Islander,Male,706,0
+Probable,30-39,Asian/Pacific Islander,Male,49,0
+Confirmed,40-49,Asian/Pacific Islander,Male,573,Suppressed
+Probable,40-49,Asian/Pacific Islander,Male,34,0
+Confirmed,50-59,Asian/Pacific Islander,Male,540,Suppressed
+Probable,50-59,Asian/Pacific Islander,Male,24,Suppressed
+Confirmed,60-69,Asian/Pacific Islander,Male,330,18
+Probable,60-69,Asian/Pacific Islander,Male,12,Suppressed
+Confirmed,70-79,Asian/Pacific Islander,Male,153,30
+Probable,70-79,Asian/Pacific Islander,Male,6,Suppressed
+Confirmed,80+,Asian/Pacific Islander,Male,78,22
+Probable,80+,Asian/Pacific Islander,Male,Suppressed,Suppressed
+Confirmed,Unknown,Asian/Pacific Islander,Male,0,0
+Probable,Unknown,Asian/Pacific Islander,Male,Suppressed,0
+Confirmed,0-9,Black/African American,Male,752,0
+Probable,0-9,Black/African American,Male,53,0
+Confirmed,10-19,Black/African American,Male,1715,Suppressed
+Probable,10-19,Black/African American,Male,113,Suppressed
+Confirmed,20-29,Black/African American,Male,5821,13
+Probable,20-29,Black/African American,Male,270,0
+Confirmed,30-39,Black/African American,Male,5833,31
+Probable,30-39,Black/African American,Male,252,0
+Confirmed,40-49,Black/African American,Male,5342,90
+Probable,40-49,Black/African American,Male,213,8
+Confirmed,50-59,Black/African American,Male,5048,236
+Probable,50-59,Black/African American,Male,225,10
+Confirmed,60-69,Black/African American,Male,3889,421
+Probable,60-69,Black/African American,Male,170,23
+Confirmed,70-79,Black/African American,Male,2086,512
+Probable,70-79,Black/African American,Male,66,27
+Confirmed,80+,Black/African American,Male,922,387
+Probable,80+,Black/African American,Male,31,17
+Confirmed,Unknown,Black/African American,Male,6,0
+Probable,Unknown,Black/African American,Male,11,0
+Confirmed,0-9,Multiple Races,Male,402,Suppressed
+Probable,0-9,Multiple Races,Male,54,0
+Confirmed,10-19,Multiple Races,Male,1257,0
+Probable,10-19,Multiple Races,Male,111,0
+Confirmed,20-29,Multiple Races,Male,1768,0
+Probable,20-29,Multiple Races,Male,119,0
+Confirmed,30-39,Multiple Races,Male,1258,Suppressed
+Probable,30-39,Multiple Races,Male,73,0
+Confirmed,40-49,Multiple Races,Male,1271,Suppressed
+Probable,40-49,Multiple Races,Male,88,Suppressed
+Confirmed,50-59,Multiple Races,Male,1345,7
+Probable,50-59,Multiple Races,Male,73,0
+Confirmed,60-69,Multiple Races,Male,1184,29
+Probable,60-69,Multiple Races,Male,60,0
+Confirmed,70-79,Multiple Races,Male,662,32
+Probable,70-79,Multiple Races,Male,26,0
+Confirmed,80+,Multiple Races,Male,276,38
+Probable,80+,Multiple Races,Male,7,Suppressed
+Confirmed,Unknown,Multiple Races,Male,Suppressed,0
+Probable,Unknown,Multiple Races,Male,38,0
+Confirmed,0-9,Other,Male,661,0
+Probable,0-9,Other,Male,42,0
+Confirmed,10-19,Other,Male,1728,0
+Probable,10-19,Other,Male,108,0
+Confirmed,20-29,Other,Male,3365,Suppressed
+Probable,20-29,Other,Male,143,0
+Confirmed,30-39,Other,Male,2670,Suppressed
+Probable,30-39,Other,Male,122,0
+Confirmed,40-49,Other,Male,2501,13
+Probable,40-49,Other,Male,120,0
+Confirmed,50-59,Other,Male,2058,22
+Probable,50-59,Other,Male,70,0
+Confirmed,60-69,Other,Male,1228,59
+Probable,60-69,Other,Male,42,Suppressed
+Confirmed,70-79,Other,Male,563,49
+Probable,70-79,Other,Male,18,Suppressed
+Confirmed,80+,Other,Male,257,50
+Probable,80+,Other,Male,6,Suppressed
+Confirmed,Unknown,Other,Male,Suppressed,0
+Probable,Unknown,Other,Male,13,0
+Confirmed,0-9,Unknown,Male,1171,0
+Probable,0-9,Unknown,Male,207,0
+Confirmed,10-19,Unknown,Male,4140,0
+Probable,10-19,Unknown,Male,604,0
+Confirmed,20-29,Unknown,Male,10436,0
+Probable,20-29,Unknown,Male,1127,0
+Confirmed,30-39,Unknown,Male,8669,6
+Probable,30-39,Unknown,Male,881,Suppressed
+Confirmed,40-49,Unknown,Male,7900,18
+Probable,40-49,Unknown,Male,787,Suppressed
+Confirmed,50-59,Unknown,Male,8665,24
+Probable,50-59,Unknown,Male,827,0
+Confirmed,60-69,Unknown,Male,5353,65
+Probable,60-69,Unknown,Male,528,Suppressed
+Confirmed,70-79,Unknown,Male,2305,108
+Probable,70-79,Unknown,Male,227,7
+Confirmed,80+,Unknown,Male,1160,125
+Probable,80+,Unknown,Male,129,20
+Confirmed,Unknown,Unknown,Male,120,0
+Probable,Unknown,Unknown,Male,730,0
+Confirmed,0-9,White,Male,3973,0
+Probable,0-9,White,Male,624,0
+Confirmed,10-19,White,Male,13057,0
+Probable,10-19,White,Male,1233,0
+Confirmed,20-29,White,Male,23856,14
+Probable,20-29,White,Male,1611,Suppressed
+Confirmed,30-39,White,Male,19277,29
+Probable,30-39,White,Male,1193,Suppressed
+Confirmed,40-49,White,Male,18933,76
+Probable,40-49,White,Male,1180,6
+Confirmed,50-59,White,Male,22000,283
+Probable,50-59,White,Male,1323,13
+Confirmed,60-69,White,Male,18795,689
+Probable,60-69,White,Male,937,43
+Confirmed,70-79,White,Male,12152,1383
+Probable,70-79,White,Male,582,63
+Confirmed,80+,White,Male,7252,2107
+Probable,80+,White,Male,471,120
+Confirmed,Unknown,White,Male,72,0
+Probable,Unknown,White,Male,209,0
+Confirmed,0-9,American Indian/Alaska Native,Unknown,0,0
+Probable,0-9,American Indian/Alaska Native,Unknown,0,0
+Confirmed,10-19,American Indian/Alaska Native,Unknown,Suppressed,0
+Probable,10-19,American Indian/Alaska Native,Unknown,0,0
+Confirmed,20-29,American Indian/Alaska Native,Unknown,Suppressed,0
+Probable,20-29,American Indian/Alaska Native,Unknown,Suppressed,0
+Confirmed,30-39,American Indian/Alaska Native,Unknown,Suppressed,0
+Probable,30-39,American Indian/Alaska Native,Unknown,0,0
+Confirmed,40-49,American Indian/Alaska Native,Unknown,0,0
+Probable,40-49,American Indian/Alaska Native,Unknown,0,0
+Confirmed,50-59,American Indian/Alaska Native,Unknown,Suppressed,0
+Probable,50-59,American Indian/Alaska Native,Unknown,0,0
+Confirmed,60-69,American Indian/Alaska Native,Unknown,Suppressed,0
+Probable,60-69,American Indian/Alaska Native,Unknown,0,0
+Confirmed,70-79,American Indian/Alaska Native,Unknown,Suppressed,0
+Probable,70-79,American Indian/Alaska Native,Unknown,0,0
+Confirmed,80+,American Indian/Alaska Native,Unknown,0,0
+Probable,80+,American Indian/Alaska Native,Unknown,0,0
+Confirmed,Unknown,American Indian/Alaska Native,Unknown,0,0
+Probable,Unknown,American Indian/Alaska Native,Unknown,Suppressed,0
+Confirmed,0-9,Asian/Pacific Islander,Unknown,0,0
+Probable,0-9,Asian/Pacific Islander,Unknown,0,0
+Confirmed,10-19,Asian/Pacific Islander,Unknown,Suppressed,0
+Probable,10-19,Asian/Pacific Islander,Unknown,0,0
+Confirmed,20-29,Asian/Pacific Islander,Unknown,8,0
+Probable,20-29,Asian/Pacific Islander,Unknown,Suppressed,0
+Confirmed,30-39,Asian/Pacific Islander,Unknown,Suppressed,0
+Probable,30-39,Asian/Pacific Islander,Unknown,Suppressed,0
+Confirmed,40-49,Asian/Pacific Islander,Unknown,Suppressed,0
+Probable,40-49,Asian/Pacific Islander,Unknown,Suppressed,0
+Confirmed,50-59,Asian/Pacific Islander,Unknown,Suppressed,0
+Probable,50-59,Asian/Pacific Islander,Unknown,Suppressed,0
+Confirmed,60-69,Asian/Pacific Islander,Unknown,0,0
+Probable,60-69,Asian/Pacific Islander,Unknown,0,0
+Confirmed,70-79,Asian/Pacific Islander,Unknown,0,0
+Probable,70-79,Asian/Pacific Islander,Unknown,0,0
+Confirmed,80+,Asian/Pacific Islander,Unknown,0,0
+Probable,80+,Asian/Pacific Islander,Unknown,0,0
+Confirmed,Unknown,Asian/Pacific Islander,Unknown,0,0
+Probable,Unknown,Asian/Pacific Islander,Unknown,0,0
+Confirmed,0-9,Black/African American,Unknown,Suppressed,0
+Probable,0-9,Black/African American,Unknown,Suppressed,0
+Confirmed,10-19,Black/African American,Unknown,11,0
+Probable,10-19,Black/African American,Unknown,Suppressed,0
+Confirmed,20-29,Black/African American,Unknown,93,0
+Probable,20-29,Black/African American,Unknown,Suppressed,0
+Confirmed,30-39,Black/African American,Unknown,83,0
+Probable,30-39,Black/African American,Unknown,Suppressed,0
+Confirmed,40-49,Black/African American,Unknown,85,0
+Probable,40-49,Black/African American,Unknown,Suppressed,0
+Confirmed,50-59,Black/African American,Unknown,77,0
+Probable,50-59,Black/African American,Unknown,Suppressed,0
+Confirmed,60-69,Black/African American,Unknown,37,0
+Probable,60-69,Black/African American,Unknown,Suppressed,0
+Confirmed,70-79,Black/African American,Unknown,11,0
+Probable,70-79,Black/African American,Unknown,Suppressed,0
+Confirmed,80+,Black/African American,Unknown,Suppressed,0
+Probable,80+,Black/African American,Unknown,0,0
+Confirmed,Unknown,Black/African American,Unknown,0,0
+Probable,Unknown,Black/African American,Unknown,Suppressed,0
+Confirmed,0-9,Multiple Races,Unknown,Suppressed,0
+Probable,0-9,Multiple Races,Unknown,Suppressed,0
+Confirmed,10-19,Multiple Races,Unknown,8,0
+Probable,10-19,Multiple Races,Unknown,Suppressed,0
+Confirmed,20-29,Multiple Races,Unknown,13,0
+Probable,20-29,Multiple Races,Unknown,8,0
+Confirmed,30-39,Multiple Races,Unknown,11,0
+Probable,30-39,Multiple Races,Unknown,7,0
+Confirmed,40-49,Multiple Races,Unknown,12,0
+Probable,40-49,Multiple Races,Unknown,Suppressed,0
+Confirmed,50-59,Multiple Races,Unknown,8,0
+Probable,50-59,Multiple Races,Unknown,Suppressed,0
+Confirmed,60-69,Multiple Races,Unknown,11,0
+Probable,60-69,Multiple Races,Unknown,Suppressed,0
+Confirmed,70-79,Multiple Races,Unknown,Suppressed,0
+Probable,70-79,Multiple Races,Unknown,0,0
+Confirmed,80+,Multiple Races,Unknown,Suppressed,0
+Probable,80+,Multiple Races,Unknown,0,0
+Confirmed,Unknown,Multiple Races,Unknown,Suppressed,0
+Probable,Unknown,Multiple Races,Unknown,8,0
+Confirmed,0-9,Other,Unknown,7,0
+Probable,0-9,Other,Unknown,Suppressed,0
+Confirmed,10-19,Other,Unknown,9,0
+Probable,10-19,Other,Unknown,Suppressed,0
+Confirmed,20-29,Other,Unknown,17,0
+Probable,20-29,Other,Unknown,Suppressed,0
+Confirmed,30-39,Other,Unknown,17,0
+Probable,30-39,Other,Unknown,Suppressed,0
+Confirmed,40-49,Other,Unknown,20,0
+Probable,40-49,Other,Unknown,Suppressed,0
+Confirmed,50-59,Other,Unknown,12,0
+Probable,50-59,Other,Unknown,Suppressed,0
+Confirmed,60-69,Other,Unknown,10,0
+Probable,60-69,Other,Unknown,Suppressed,0
+Confirmed,70-79,Other,Unknown,Suppressed,0
+Probable,70-79,Other,Unknown,0,0
+Confirmed,80+,Other,Unknown,6,0
+Probable,80+,Other,Unknown,0,0
+Confirmed,Unknown,Other,Unknown,Suppressed,0
+Probable,Unknown,Other,Unknown,0,0
+Confirmed,0-9,Unknown,Unknown,43,0
+Probable,0-9,Unknown,Unknown,52,0
+Confirmed,10-19,Unknown,Unknown,129,0
+Probable,10-19,Unknown,Unknown,127,0
+Confirmed,20-29,Unknown,Unknown,320,0
+Probable,20-29,Unknown,Unknown,273,0
+Confirmed,30-39,Unknown,Unknown,199,0
+Probable,30-39,Unknown,Unknown,205,0
+Confirmed,40-49,Unknown,Unknown,251,0
+Probable,40-49,Unknown,Unknown,233,Suppressed
+Confirmed,50-59,Unknown,Unknown,221,0
+Probable,50-59,Unknown,Unknown,215,0
+Confirmed,60-69,Unknown,Unknown,120,Suppressed
+Probable,60-69,Unknown,Unknown,146,0
+Confirmed,70-79,Unknown,Unknown,59,Suppressed
+Probable,70-79,Unknown,Unknown,68,Suppressed
+Confirmed,80+,Unknown,Unknown,48,Suppressed
+Probable,80+,Unknown,Unknown,24,0
+Confirmed,Unknown,Unknown,Unknown,44,0
+Probable,Unknown,Unknown,Unknown,1227,0
+Confirmed,0-9,White,Unknown,8,0
+Probable,0-9,White,Unknown,14,0
+Confirmed,10-19,White,Unknown,66,0
+Probable,10-19,White,Unknown,30,0
+Confirmed,20-29,White,Unknown,136,0
+Probable,20-29,White,Unknown,21,0
+Confirmed,30-39,White,Unknown,144,0
+Probable,30-39,White,Unknown,14,0
+Confirmed,40-49,White,Unknown,135,0
+Probable,40-49,White,Unknown,21,0
+Confirmed,50-59,White,Unknown,126,0
+Probable,50-59,White,Unknown,21,0
+Confirmed,60-69,White,Unknown,108,0
+Probable,60-69,White,Unknown,Suppressed,Suppressed
+Confirmed,70-79,White,Unknown,51,Suppressed
+Probable,70-79,White,Unknown,8,0
+Confirmed,80+,White,Unknown,21,Suppressed
+Probable,80+,White,Unknown,Suppressed,0
+Confirmed,Unknown,White,Unknown,Suppressed,0
+Probable,Unknown,White,Unknown,26,0
